@@ -1,0 +1,16 @@
+{
+  "name": "@hireyoo/features",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "peerDependencies": {
+    "expo-constants": "*",
+    "expo-secure-store": "*",
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "firebase": "^12.17.1"
+  }
+}

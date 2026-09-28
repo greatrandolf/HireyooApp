@@ -1,0 +1,14 @@
+{
+  "name": "@hireyoo/redux",
+  "version": "0.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-redux": "*"
+  }
+}
